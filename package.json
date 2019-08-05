@@ -1,0 +1,20 @@
+{
+  "name": "watermarking_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sequence-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hashids": "^1.2.2",
+    "m3u8-parser": "^4.4.0",
+    "m3u8-reader": "^1.1.0",
+    "m3u8-write": "^1.0.0",
+    "mongoose": "^5.6.5"
+  }
+}
