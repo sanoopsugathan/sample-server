@@ -11,6 +11,7 @@ const app = express();
 
 let currentIdx = 0;
 
+
 app.get("/playVideo", async (req, res, next) => {
   try {
     //generate unique playlist for the user
